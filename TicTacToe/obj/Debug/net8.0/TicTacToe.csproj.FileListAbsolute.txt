@@ -1,0 +1,15 @@
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.sourcelink.json
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\Users\Student-30\Documents\.dev\week15-day03-aamoore11\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
